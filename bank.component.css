@@ -1,0 +1,9 @@
+.a{
+    width: 100%;
+}
+ table,tr,td{
+     width:50%;
+     border: 2px solid black;
+     padding: 2px;
+     border-collapse: collapse;
+ }
